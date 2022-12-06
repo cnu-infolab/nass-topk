@@ -7,7 +7,7 @@ The included AIDS and PubChem indices have been constructed with thresholds 9 an
 
 The code has been complied and tested in Ubuntu and MacOS.
 
-# How to build binaries (both nass and nass-index)
+# How to build binaries (both nass-topk and nass-index)
 > make
 
 # How to run 
@@ -25,4 +25,5 @@ nass-topk does not output or save result graphs in a file. The results are saved
 
 Please refer to https://github.com/JongikKim/Nass.git for the details of constructing an index for a dataset.
 
+# Acknowledgement
 This work was partially supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (No.RS-2022-00155857, Artificial Intelligence Convergence Innovation Human Resources Development (Chungnam National University)).
