@@ -11,9 +11,7 @@ The code has been complied and tested in Ubuntu and MacOS.
 > make
 
 # How to run 
-> nass-topk k data_file [index_file]
-
-index_file is optional. 
+> nass-topk k data_file index_file
 
 For example, the following command runs nass-topk on the AIDS dataset for randomly selected 100 query graphs to find 5 graphs most similar to each query using the index AIDS.idx
 
