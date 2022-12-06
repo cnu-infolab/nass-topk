@@ -23,7 +23,7 @@ nass-topk randomly selects 100 queries from the dataset and performs top-k graph
 
 nass-topk does not output or save result graphs in a file. The results are saved in nass::res_vec, which can be used to output or save the result graphs.
 
-Please refer to https://github.com/JongikKim/Nass.git for the details of constructing an index for a dataset.
+Please refer to https://github.com/JongikKim/Nass for the details of constructing an index for a dataset.
 
 # Acknowledgement
 This work was partially supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (No.RS-2022-00155857, Artificial Intelligence Convergence Innovation Human Resources Development (Chungnam National University)).
