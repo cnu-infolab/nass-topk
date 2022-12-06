@@ -1,4 +1,4 @@
-# Top-k Graph Similarity Search
+# Top-k Graph Similarity Search with GED constraints
 
 Sample data files and index files are included in the "data" directory. 
 Please uncompress the data and index files before using them (e.g., gzip -d *.gz).
